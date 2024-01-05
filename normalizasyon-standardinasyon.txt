@@ -1,0 +1,9 @@
+Normalizasyon ve standardizasyon arasındaki fark
+
+Normalizasyon ve standardizasyon arasındaki temel fark, normalizasyonun verileri 0 ile 1 arasında ölçeklemesi, standardizasyonun ise verileri standart normal dağılım şeklinde ölçeklemesiyle ilgilidir.
+
+Normalizasyon, verilerin farklı aralıklara sahip olduğu durumlarda kullanışlıdır. Örneğin, bir görüntünün parlaklığı değerleri ile sıcaklık değerleri farklı aralıklara sahip olabilir. Bu durumda, normalizasyon yaparak bu farklı aralıkları eşitleyebiliriz.
+
+Standardizasyon ise, verilerin farklı dağılımlara sahip olduğu durumlarda kullanışlıdır. Örneğin, bir görüntüdeki parlaklık değerleri normal dağılıma sahipken, sıcaklık değerleri normal dağılım göstermeyebilir. Bu durumda, standardizasyon yaparak verilerin dağılımını standart normal dağılıma yaklaştırabiliriz.
+
+Sonuç olarak, görüntü işlemede özellik ölçeklendirme, makine öğrenimi algoritmalarının performansını iyileştirmek için önemli bir araçtır. Normalizasyon ve standardizasyon, farklı amaçlara hizmet eden iki farklı özellik ölçeklendirme yöntemidir.
